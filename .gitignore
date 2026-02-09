@@ -25,3 +25,5 @@ token.pickle
 .DS_Store
 Thumbs.dbenv/
 .env
+*.mp4
+*.mov
